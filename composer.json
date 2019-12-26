@@ -1,0 +1,14 @@
+{
+    "name": "lt/getfilesfromsf",
+    "description": "this is project for download files from sf and upload into google drive",
+    "type":"project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":"craz",
+            "email": "a.pavlov@ltcompany.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
