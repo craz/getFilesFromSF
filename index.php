@@ -1,4 +1,3 @@
 <?php
-echo "hello world";
+require_once ('Force.com-Toolkit-for-PHP/soapclient/SforceEnterpriseClient.php');
 
-echo "hi";
