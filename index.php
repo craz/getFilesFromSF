@@ -7,5 +7,5 @@ require_once ('soapclient/SforceEnterpriseClient.php');
 
 $mySforceConnection = new SforceEnterpriseClient();
 $mySforceConnection->createConnection("wsdl.xml");
-$mySforceConnection->login(USERNAME, PASSWORD.SECURITY_TOKEN);
+$mySforceConnection->login(USERNAME, PASSWORD);
 
